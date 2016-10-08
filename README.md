@@ -1,2 +1,1 @@
-# Masehi2Jawa
-Konversi tanggal masehi ke tanggal jawa
+# Konversi Tanggal Masehi ke Tanggal Jawa
